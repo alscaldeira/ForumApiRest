@@ -1,7 +1,6 @@
 package br.com.alura.forum.controller;
 
 import java.net.URI;
-import java.util.List;
 import java.util.Optional;
 
 import javax.validation.Valid;
